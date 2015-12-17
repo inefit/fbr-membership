@@ -2,7 +2,7 @@
 /*
 Plugin Name: FBR Membership
 Plugin URI: http://fabrictheme.com
-Description: Wordpress Membership Plugin
+Description: Membership Plugin for woocommerce theme
 Version: 0.2.0
 Author: Fahri Arrasyid
 Author URI: http://github.com/mfahri
